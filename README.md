@@ -41,11 +41,6 @@
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][cssplaylist]
 [<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />][cssplaylist]
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][jsplaylist]
-
-[<img align="left" alt="sql server" width="26px" src="https://cdn.cdnlogo.com/logos/m/21/microsoft-sql-server.svg" style="padding-right:10px;" />][]
-
-[<img align="left" alt="angular" width="26px" src="https://cdn.cdnlogo.com/logos/a/51/angular.svg" style="padding-right:10px;" />][]
-
 [<img align="left" alt="C#" width="26px" src="https://cdn.cdnlogo.com/logos/c/27/c.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt=".Net" width="26px" src="https://cdn.cdnlogo.com/logos/d/95/dotnet.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][webdevplaylist]
