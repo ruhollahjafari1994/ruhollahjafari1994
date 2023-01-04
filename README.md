@@ -4,12 +4,7 @@ Coding capabilities, familiarity with ASP.NET, SQL server  knowledge of .net lan
 He also have a bachelor's degree in computer engineering and my own programming experience both in college and at work.
 
 ## GitHub Stats
-
-<a href="https://github.com/jasontaylordev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ruhollahjafari1994&show_icons=true&theme=shades-of-purple&count_private=true" alt="JasonTaylorDev's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruhollahjafari1994&theme=shades-of-purple&layout=compact" 
-    alt="JasonTaylorDev GitHub Top Languages" />
-</a>
+ 
 
 ## My Content
 - [Blog](https://www.linkedin.com/in/ruhollah-jafari)
