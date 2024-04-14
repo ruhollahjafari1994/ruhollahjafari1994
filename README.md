@@ -30,9 +30,7 @@ He also have a bachelor's degree in computer engineering and my own programming 
     height: 100%;
     object-fit: contain;
   }
-</style>
-</head>
-<body>
+
   <h3 align="left">Languages and Tools:</h3>
   <p class="icons-container" align="left">
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
