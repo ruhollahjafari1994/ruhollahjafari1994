@@ -12,11 +12,6 @@ He also have a bachelor's degree in computer engineering and my own programming 
 - [Twitter Stream](https://twitter.com/RuhollahJafari) 
 - [Medium](https://medium.com/@ruhollah-jafari) 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Languages and Tools</title>
 <style>
   .icons-container {
@@ -83,6 +78,4 @@ He also have a bachelor's degree in computer engineering and my own programming 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript"/>
     </a>
   </p>
-</body>
-</html>
 
